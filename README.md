@@ -1,2 +1,1 @@
-# sift-ann-knn-project
-"Image keypoint matching and classification using SIFT features with KNN and ANN models
+my lovely notebooks that were made for Uni courses; Machine Learning and Introduction to Data science. 
