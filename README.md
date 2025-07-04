@@ -7,7 +7,7 @@ A curated collection of my notebooks created for university courses in **Machine
 ## 🚀 Open in Colab
 
 - **🏞️ Place Recognition**  
-  Using SIFT, KNN, ANN, and LSH  
+  Using SIFT together with custom implementation of KNN, ANN, and LSH to identify famous locations.  
   [Open in Colab](https://colab.research.google.com/drive/1fPTcFoFl1wq-dAxEuwYyENwN2DgTn3ZP?usp=sharing)
 
 - **🎵 Song Analysis**  
