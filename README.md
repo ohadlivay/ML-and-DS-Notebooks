@@ -7,7 +7,7 @@ A curated collection of my notebooks created for university courses in **Machine
 ## 🚀 Open in Colab
 
 - **🏞️ Place Recognition**  
-  Using SIFT together with custom implementation of KNN, ANN, and LSH to identify famous locations.  
+  Using SIFT together with custom implementation of KNN, ANN (ANN, RKDT) to identify famous locations.  
   [Open in Colab](https://colab.research.google.com/drive/1fPTcFoFl1wq-dAxEuwYyENwN2DgTn3ZP?usp=sharing)
 
 - **🎵 Song Analysis**  
@@ -29,5 +29,8 @@ A curated collection of my notebooks created for university courses in **Machine
 - **⚠️ Synthetic data classification and Outlier Detection **  
   Random Forest and PCA-based feature importance, KNN classification using PC1, statistical and ML-based outlier detection methods, and PCA visualization of anomalies.  
   [Open in Colab](https://colab.research.google.com/drive/1y30M0hTio4AZ-d_Jqurh7eDYtu1BDAht?usp=sharing)
+
+nifty little reverse-index i implemented for Information Retreival course:
+https://colab.research.google.com/drive/1a3CdKKj0aM0p1XGfiI-eLEjM-7qk0I0D?usp=sharing
 
 ---
